@@ -1,0 +1,545 @@
+{
+	"textures": [
+		{
+			"image": "chicken_fall",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1924,
+				"h": 220
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "chicken_fall/frame0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 296,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 444,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 592,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 740,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 888,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1036,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1184,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame9",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1332,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame10",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1480,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame11",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1628,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame12",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1776,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame13",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame14",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame15",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 296,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame16",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 444,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame17",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 592,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame18",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 740,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame19",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 888,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame20",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1036,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame21",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1184,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame22",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1332,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame23",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1480,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_fall/frame24",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1628,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2f5d45494475b8a071e82befeb84969e:9232b6663a556fe8203e309fffd90c5a:b3bf58b759a73088437f235fae594e12$"
+	}
+}

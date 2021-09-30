@@ -1,0 +1,440 @@
+{
+	"textures": [
+		{
+			"image": "chicken_sit.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1480,
+				"h": 110
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "chicken_sit-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 222,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 296,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 370,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 444,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 518,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 592,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-9.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 666,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 740,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-11.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 814,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-12.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 888,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-13.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 962,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-14.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 1036,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-15.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 1110,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-16.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 1184,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-17.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 1258,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-18.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 1332,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_sit-19.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 1406,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2a24aa854e2050358fb62001dd6a3eca:84247545b97cd3fe837815394f3ca3e6:fc4bfd21be058c78dcef317a90f9468c$"
+	}
+}

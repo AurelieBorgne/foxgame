@@ -1,0 +1,28 @@
+body {
+  background: #000;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#game {
+  margin: auto;
+  max-height: 600px;
+}
+
+#game img {
+  position: absolute;
+  margin: auto;
+  left: 0; right: 0;
+  top: 0; bottom: 0;    
+}
+
+.ml{
+    color: #FFF;
+    float: right;
+    padding: 10px;
+}
+
+.ml a, .ml a:visited, .ml a:hover {
+    color: #FFF;
+}

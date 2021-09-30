@@ -1,0 +1,545 @@
+{
+	"textures": [
+		{
+			"image": "chicken_land",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1924,
+				"h": 220
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "chicken_land/frame0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 296,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 444,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 592,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 740,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 888,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1036,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1184,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame9",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1332,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame10",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1480,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame11",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1628,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame12",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1776,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame13",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame14",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame15",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 296,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame16",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 444,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame17",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 592,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame18",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 740,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame19",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 888,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame20",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1036,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame21",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1184,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame22",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1332,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame23",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1480,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_land/frame24",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 110
+					},
+					"frame": {
+						"x": 1628,
+						"y": 110,
+						"w": 148,
+						"h": 110
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2a03cec547aa327df999da747c27298e:ada067fd7e73e858766726521594f804:c0c876222f1d5e039bb76147d9c7f6e8$"
+	}
+}

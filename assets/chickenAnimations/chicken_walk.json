@@ -1,0 +1,524 @@
+{
+	"textures": [
+		{
+			"image": "chicken_walk.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1776,
+				"h": 110
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "chicken_walk-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 222,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 296,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 370,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 444,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 518,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 592,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-9.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 666,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 740,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-11.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 814,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-12.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 888,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-13.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 962,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-14.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 1036,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-15.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 1110,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-16.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 1184,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-17.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 1258,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-18.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 1332,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-19.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 1406,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-20.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 1480,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-21.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 1554,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-22.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 1628,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_walk-23.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 1702,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e0df9a882413a665c24c644e93840375:2a38553d043cbd4b4cbdcfb8a2f68f41:ead6ca1b3ad00dc33ff0fc7579dd059d$"
+	}
+}

@@ -1,0 +1,1427 @@
+{
+	"textures": [
+		{
+			"image": "chicken_idle",
+			"format": "RGBA8888",
+			"size": {
+				"w": 444,
+				"h": 1320
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "chicken_idle/frame0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 222,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 296,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 370,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 110,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 110,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 110,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame9",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 222,
+						"y": 110,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame10",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 296,
+						"y": 110,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame11",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 370,
+						"y": 110,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame12",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 220,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame13",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 220,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame14",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 220,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame15",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 222,
+						"y": 220,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame16",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 296,
+						"y": 220,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame17",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 370,
+						"y": 220,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame18",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 330,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame19",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 330,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame20",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 330,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame21",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 222,
+						"y": 330,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame22",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 296,
+						"y": 330,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame23",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 370,
+						"y": 330,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame24",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 440,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame25",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 440,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame26",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 440,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame27",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 222,
+						"y": 440,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame28",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 296,
+						"y": 440,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame29",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 370,
+						"y": 440,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame30",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 550,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame31",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 550,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame32",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 550,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame33",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 222,
+						"y": 550,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame34",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 296,
+						"y": 550,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame35",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 370,
+						"y": 550,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame36",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 660,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame37",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 660,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame38",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 660,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame39",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 222,
+						"y": 660,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame40",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 296,
+						"y": 660,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame41",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 370,
+						"y": 660,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame42",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 770,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame43",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 770,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame44",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 770,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame45",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 222,
+						"y": 770,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame46",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 296,
+						"y": 770,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame47",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 370,
+						"y": 770,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame48",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 880,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame49",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 880,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame50",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 880,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame51",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 222,
+						"y": 880,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame52",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 296,
+						"y": 880,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame53",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 370,
+						"y": 880,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame54",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 990,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame55",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 990,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame56",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 990,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame57",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 222,
+						"y": 990,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame58",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 296,
+						"y": 990,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame59",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 370,
+						"y": 990,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame60",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 1100,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame61",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 1100,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame62",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 1100,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame63",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 222,
+						"y": 1100,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame64",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 296,
+						"y": 1100,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame65",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 370,
+						"y": 1100,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_idle/frame66",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 1210,
+						"w": 74,
+						"h": 110
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:300b87f98dd431208899833ea53e358f:d3554561293ebcb912595eace8273ddb:6e236daf9389da6aca6734df3040b999$"
+	}
+}

@@ -1,0 +1,692 @@
+{
+	"textures": [
+		{
+			"image": "chicken_peckingOnce",
+			"format": "RGBA8888",
+			"size": {
+				"w": 222,
+				"h": 1210
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "chicken_peckingOnce/frame0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 110,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 110,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 110,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 220,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 220,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 220,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame9",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 330,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame10",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 330,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame11",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 330,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame12",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 440,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame13",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 440,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame14",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 440,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame15",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 550,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame16",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 550,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame17",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 550,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame18",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 660,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame19",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 660,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame20",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 660,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame21",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 770,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame22",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 770,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame23",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 770,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame24",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 880,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame25",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 880,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame26",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 880,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame27",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 990,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame28",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 990,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame29",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 148,
+						"y": 990,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame30",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 0,
+						"y": 1100,
+						"w": 74,
+						"h": 110
+					}
+				},
+				{
+					"filename": "chicken_peckingOnce/frame31",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 110
+					},
+					"frame": {
+						"x": 74,
+						"y": 1100,
+						"w": 74,
+						"h": 110
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:32cdc2bc1a76e59961a48560b1939470:f73551f14b77a9d8b759871a7bece911:8024066d2ec5c4c9af5687643890e96f$"
+	}
+}
